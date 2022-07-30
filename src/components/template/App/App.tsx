@@ -1,12 +1,11 @@
 import React from 'react';
-import './App.scss';
+import { StyledApp } from './styled'
 
 function App() {
   return (
-    <div className="App">
+    <StyledApp>
       app
-    </div>
+    </StyledApp>
   );
 }
-
 export default App;
