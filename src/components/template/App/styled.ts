@@ -1,5 +1,3 @@
 import styled from "styled-components";
 
-export const StyledApp = styled.div`
-  backgroundColor: red;
-`
+export const StyledApp = styled.div``
