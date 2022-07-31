@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Header from '../Header/Header'
-import ContentContainer from '../ContentContainer/ContentContainer'
+import Header from 'components/template/Header/Header'
+import ContentContainer from 'components/template/ContentContainer/ContentContainer'
 
 import { StyledApp } from './styled'
 

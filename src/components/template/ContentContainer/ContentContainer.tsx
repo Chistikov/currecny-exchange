@@ -1,4 +1,4 @@
-import { AnnouncementListItem } from '../../ui/AnnouncementListItem/AnnouncementListItem'
+import { AnnouncementListItem } from 'components/ui/AnnouncementListItem/AnnouncementListItem'
 import { StyledContentContainer, StyledAnnouncementsList, StyledBlockTitle } from './styled'
 
 
